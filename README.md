@@ -1,4 +1,9 @@
 VHDL-101
 ========
 
-courses based on 
+
+
+
+### References/Further Reading
+
+http://www.stefanvhdl.com/vhdl/html/basic_stim_gen.html
